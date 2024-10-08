@@ -1,0 +1,11 @@
+Katas not yet completed:
+- Book sorting
+- Golf shot Calc
+- RPS (with DOM)
+- Say That Again
+- Fibonacci
+- Boomerang
+- Weekly Routine
+- Fizzbuzz
+- String Calc
+- Temp Converter
