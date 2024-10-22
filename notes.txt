@@ -1,3 +1,30 @@
+Katas completed:
+(* with tests)
+session 3
+- is ascending*
+session 4
+- parking charges
+- seven boom
+session 5
+- amount as coins*
+- bouncing ball*
+- sum of sequence*
+session 6
+- roman numerals
+- validate password*
+session 7
+- book sorting (wip w/ Sonia)
+- calculate scores*
+session 10 
+- objects are equal*
+- separateCSV
+- on parking
+- sum of odd
+- family string
+- divisor
+- spin words
+- bake cakes
+
 Katas not yet completed:
 - Book sorting
 - Golf shot Calc
